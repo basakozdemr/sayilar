@@ -1,0 +1,54 @@
+C:\Users\HP\Desktop\Sayilar\Sayilar\bin\Debug\net6.0-windows\Sayilar.exe
+C:\Users\HP\Desktop\Sayilar\Sayilar\bin\Debug\net6.0-windows\Sayilar.deps.json
+C:\Users\HP\Desktop\Sayilar\Sayilar\bin\Debug\net6.0-windows\Sayilar.runtimeconfig.json
+C:\Users\HP\Desktop\Sayilar\Sayilar\bin\Debug\net6.0-windows\Sayilar.dll
+C:\Users\HP\Desktop\Sayilar\Sayilar\bin\Debug\net6.0-windows\Sayilar.pdb
+C:\Users\HP\Desktop\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.Form1.resources
+C:\Users\HP\Desktop\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.AssemblyInfo.cs
+C:\Users\HP\Desktop\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.dll
+C:\Users\HP\Desktop\Sayilar\Sayilar\obj\Debug\net6.0-windows\refint\Sayilar.dll
+C:\Users\HP\Desktop\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.pdb
+C:\Users\HP\Desktop\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.genruntimeconfig.cache
+C:\Users\HP\Desktop\Sayilar\Sayilar\obj\Debug\net6.0-windows\ref\Sayilar.dll
+C:\Users\HP\Desktop\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.Properties.Resources.resources
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\bin\Debug\net6.0-windows\Sayilar.exe
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\bin\Debug\net6.0-windows\Sayilar.deps.json
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\bin\Debug\net6.0-windows\Sayilar.runtimeconfig.json
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\bin\Debug\net6.0-windows\Sayilar.dll
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\bin\Debug\net6.0-windows\Sayilar.pdb
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.Form1.resources
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.Properties.Resources.resources
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.AssemblyInfo.cs
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.dll
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\refint\Sayilar.dll
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.pdb
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.genruntimeconfig.cache
+C:\Users\HP\Desktop\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\ref\Sayilar.dll
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\bin\Debug\net6.0-windows\Sayilar.exe
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\bin\Debug\net6.0-windows\Sayilar.deps.json
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\bin\Debug\net6.0-windows\Sayilar.runtimeconfig.json
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\bin\Debug\net6.0-windows\Sayilar.dll
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\bin\Debug\net6.0-windows\Sayilar.pdb
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.Form1.resources
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.Properties.Resources.resources
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.AssemblyInfo.cs
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.dll
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\refint\Sayilar.dll
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.pdb
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\Sayilar.genruntimeconfig.cache
+C:\Users\HP\Desktop\2.1\nesne prog\odevler\Sayilar\Sayilar\obj\Debug\net6.0-windows\ref\Sayilar.dll
